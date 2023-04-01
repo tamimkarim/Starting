@@ -1,6 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
-    margin: 0;
+    
 }
 h1{
     font-size: 50px;
@@ -13,6 +13,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom:150px ;
 }
 .half-width{
   width: 50%; 
@@ -28,4 +29,9 @@ section{
     padding: 10px 40px;
     border-radius: 5px;
     color: aliceblue;
+}
+#second{
+    width: 70%;
+    height: 80%;
+    margin-left: 100px;
 }
