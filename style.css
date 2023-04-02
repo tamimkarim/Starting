@@ -11,7 +11,7 @@ h1{
 .span{
     color: rgb(54, 113, 113);
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom:150px ;
 }
