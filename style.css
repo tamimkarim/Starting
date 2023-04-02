@@ -5,7 +5,9 @@ body{
 h1{
     font-size: 50px;
     
-    
+}
+h2{
+    font-size: 40px;
 }
 
 .span{
@@ -34,4 +36,20 @@ h1{
     width: 70%;
     height: 80%;
     margin-left: 100px;
+}
+.experience{
+  width: 40%; 
+  padding-left: 5%; 
+  padding-right: 5%;
+  margin-left: 5%;
+  border-radius: 1%;
+  margin-right: 5%;
+  box-shadow: 10px 10px 40px gray;
+
+}
+.experience-area{
+    background-image: url(exp-bg.png
+    );
+    background-repeat: no-repeat;
+    background-position: left;
 }
